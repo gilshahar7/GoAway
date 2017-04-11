@@ -1,0 +1,9 @@
+Package: com.gilshahar7.goaway
+Name: GoAway
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Changes the "iPhone is disabled" text
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
